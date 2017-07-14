@@ -106,6 +106,8 @@ For developing an AGI from ground up the answer lies in neurology -
 Though this open source repository is meant for expressing the ideas,views and issues with the current classical methods anyone can raise an issue and send a PR as per his understanding, but if you want to have a deep overview on the 
  subject with the members of the organization or you wish to be a member of this organization, drop me a mail at 
  mrmohitrathoremr@gmail.com . 
+ 
+ Read at least one research paper a day and make notes.
 
 # Attribution 
 Q Liu planted the idea of designing AGI for the better good of humanity. Some theories that he extended to me are - 
