@@ -112,10 +112,12 @@ Though this open source repository is meant for expressing the ideas,views and i
 # Attribution 
 Q Liu planted the idea of designing AGI for the better good of humanity. Some theories that he extended to me are - 
 * The idea of first principle thinking. 
-* [That there is no free will](https://www.youtube.com/watch?v=pCofmZlC72g&t=1035s) - which I still don't agree with.
+* [That there is no free will](https://www.youtube.com/watch?v=pCofmZlC72g&t=1035s)[.](https://github.com/WalnutiQ/wAlnut/issues/294#issuecomment-253239773) - which I still don't agree with.
 
 and the two interview questions -  
 * What truth do you believe in that very few people agree with you on?
 * Tell me the story of your life and why you made the decisions you made and tell me about how you solved the hardest 
 problems you have faced?
+
+
 
