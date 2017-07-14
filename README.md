@@ -26,6 +26,10 @@ I (once fully developed)'s cognizance might very soon surpass that of human's. T
 jellyfishes is that these jellyfishes evaporate once they are washed on shore which is unlikely to happen with any AGI. 
 Another cool analogy (not for us) is that neither AGI nor jellyfish *have a heart.*
 
+## Why github?
+Like Q Liu I want to make my research and efforts for building an AGI available for the mass. Hence the repository and the idea of using the issue page for research and coping up with the hurdles that will come along.
+Like most of the repository structure this idea is inspired by Q as well.
+
 
 ## Getting started
 _Let's start with a story to begin with._  
