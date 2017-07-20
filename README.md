@@ -96,6 +96,7 @@ against. We start by covering areas which are already in being investigated by c
 For developing an AGI from ground up the answer lies in neurology - 
 * Brain computer interfaces.
 * Neural Lace
+* Human psychology??
 * ??
 
 # Links to follow 
