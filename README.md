@@ -3,13 +3,13 @@ This repository is inspired by Quinn Liu's repository Walnut and share similar g
 
 This is the prime repository of the organization JellAIfish, the aim is to develop a artificial general intelligence.
 
-Q - Why the name "jellyfish" though?  
+Q - Why the name "jellyfish" though?
 A - Obsession.
 
-Q - Why the obsession?  
+Q - Why the obsession?
 A - cause jellyfishes are nature's AI.
 
-Q - ??  
+Q - ??
 A - 21st century - every neuro-science researcher in the world has once in his/her lifetime dreamt of developing an AGI.
  
 A few of them have made some decent progress as well. Everyone wants to build an AGI - an artificial general intelligenc
@@ -32,7 +32,7 @@ Like most of the repository structure this idea is inspired by Q as well.
 
 
 ## Getting started
-_Let's start with a story to begin with._  
+_Let's start with a story to begin with._
 
 In 1681, English theologian Thomas Burnet published Sacred Theory of the Earth, in which he explained how geology worked
 . What happened was, around 6,000 years ago, the Earth was formed as a perfect sphere with a surface of idyllic land and
@@ -113,7 +113,7 @@ Though this open source repository is meant for expressing the ideas,views and i
 # Attribution 
 Q Liu planted the idea of designing AGI for the better good of humanity. Some theories that he extended to me are - 
 * The idea of first principle thinking. 
-* [That there is no free will](https://www.youtube.com/watch?v=pCofmZlC72g&t=1035s)[.](https://github.com/WalnutiQ/wAlnut/issues/294#issuecomment-253239773) - which I still don't agree with.
+* [That there is no free will](https://www.youtube.com/watch?v=pCofmZlC72g&t=1035s)[.](https://github.com/WalnutiQ/wAlnut/issues/294#issuecomment-253239773) - Do you believe in Chaos Theory?.
 
 and the two interview questions -  
 * What truth do you believe in that very few people agree with you on?
